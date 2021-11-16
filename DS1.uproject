@@ -25,6 +25,14 @@
 				"Win64",
 				"Linux"
 			]
+		},
+		{
+			"Name": "Volumetrics",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraExtras",
+			"Enabled": true
 		}
 	]
 }
